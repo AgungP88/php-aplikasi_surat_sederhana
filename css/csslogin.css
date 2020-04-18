@@ -1,0 +1,133 @@
+body{
+	background: url(../img/bg.jpg);
+}
+.menu{
+	background: aqua;
+	margin:0px 0px;
+	width:97%;
+	height:50px;
+	border-radius:0px;
+	border:1px solid blue;
+	line-height:50px;
+	list-style:none;
+	font-size:20px;
+	clear:both;
+}
+
+.menu li a{
+	float:left;
+	margin:0;
+	padding:0px 20px;
+	display:block;
+	text-decoration: blue;
+	color:black;
+}
+
+.menu li a:hover{
+	background:aqua;
+	color:red;
+	border:0px solid blue;
+	border-radius:5px;
+
+}
+
+.header{
+	background:aqua;
+	border-radius: 3px;
+	width:1200px;
+	height:40px;
+	color:black;
+	font-family:'arial';
+	font-size:15px;
+	line-height: 5px;
+	margin:auto;
+}
+
+.gambar{
+	padding:5px;
+}
+
+.content{
+	margin:0px 75px;
+	border-radius:15px;
+	background: grey;
+	float:right;
+	width:65%;
+	height:300px;
+	color:white;
+
+}
+
+.sidebar{
+	width:180px;
+	height:300px;
+	margin:0px 0px 0px 75px;
+	background: aqua;
+	border:2px solid black;
+	border-radius: 20px;
+	padding: 5px;
+}
+
+.kontak{
+	width:180px;
+	height:50px;
+	background: white;
+	border:2px solid black;
+	box-shadow: 2px 2px rgba(0,0,0,0.6);
+	margin:0px 0px 20px 75px;
+	font-family: "times new roman";
+	font-size:20px;
+	color:blue;
+}
+
+.kontak:hover{
+	color:black;
+}
+
+.footer{
+	width:100%;
+	height:80px;
+	margin:20px 0px;
+	background:black;
+	color:white;
+	line-height: 70px;
+	font-size: 17px;
+}
+
+.tabel{
+	width:400px;
+	height:100px;
+}
+
+.tulisan1{
+	font-family:"arial";
+	font-size: 25px;
+	color:black;
+}
+
+.tulisan{
+	font-family: "times new roman";
+	font-size: 20px;
+	color:white;
+}
+
+.inputan{
+	width:250px;
+	height:30px;
+	border-radius: 5px;
+	font-size: 15px;
+}
+
+.submit{
+	width:100px;
+	height: 30px;
+	background: white;
+	box-shadow: 5px 5px rgba(0,0,0,0.6);
+	border-radius: 15px;
+	font-size: 15px;
+	font-family: "times new roman";
+}
+
+.submit:hover{
+	color:blue;
+}

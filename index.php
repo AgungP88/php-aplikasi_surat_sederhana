@@ -1,0 +1,11 @@
+<html>
+<head><title>SURAT</title></head>
+<?php
+include'koneksi.php';
+include'menu_bar.php';
+include'header.php';
+include'utama.php';
+include'sidebar.php';
+include'footer.php';
+?>
+</html>

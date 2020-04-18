@@ -1,0 +1,100 @@
+.namaintable{
+
+	background: aqua;
+	width:1200px;
+	height: 35px;
+	border-radius: 5px;
+	font-family: "arial";
+	font-size: 20px;
+	line-height: 50px 0px;
+	margin:10px;
+}
+
+.tblats{
+	width:1200px;
+}
+
+.tmbh{
+	width:250px;
+	height:50px;
+	background: green;
+	border-radius: 20px;
+	color:white;
+	box-shadow: 3px 3px rgba(0,0,0,0.6);
+}
+
+.tmbh:hover{
+	color:black;
+}
+
+.inputan2{
+	width:200px;
+	height:30px;
+	border-radius: 5px;
+}
+
+.outable{
+	margin:20px;
+	padding:20px;
+	border:1px solid #e3e3e3;
+	width:1150px;
+	border-radius: 5px;
+}
+
+.table{
+	border-collapse: collapse;
+	font-family: "arial";
+	color:#5E5B5C;
+	width:1100px;
+}
+
+.tr{
+	text-align: center;
+	padding:10px;
+	height: 50px;
+}
+
+.tr2{
+	border-top:1px solid #e3e3e3;
+	padding: 10px;
+	height: 40px;
+}
+
+.tr2:nth-child(even){
+	background: #F6F5FA;
+}
+
+.tr2:hover{
+	background: #EAE9F5;
+}
+
+.tblinput{
+	border:1px solid red;
+	width:550px;
+	padding:0px;
+}
+
+.asd{
+	width:120px;
+	font-family: 'arial';
+	font-size: 17px;
+}
+
+.inputantbl{
+	width:330px;
+	height: 30px;
+	border-radius: 5px;
+}
+
+.date{
+	width:200px;
+	height: 30px;
+	border-radius: 5px;
+}
+
+.jdltbl{
+	font-size: 20px;
+	font-family: "times new roman";
+	background: red;
+	color:white;
+}

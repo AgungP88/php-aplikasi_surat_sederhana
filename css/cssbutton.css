@@ -1,0 +1,116 @@
+.hapus{
+	background: red;
+	width: 60px;
+	height: 25px;
+	border-radius: 10px;
+	color: white;
+	font-family: "bernard mt consended";
+	font-size: 15px;
+}
+
+.hapus:hover{
+	background: pink;
+	color: black;
+}
+
+.edit{
+	width:50px;
+	height: 25px;
+	border-radius: 10px;
+	background: green;
+	color: white;
+	font-family: "bernard mt consended";
+	font-size: 15px;
+
+}
+
+.edit:hover{
+	background: white;
+	color:black;
+}
+
+.tambah{
+	width:130px;
+	height: 25px;
+	border-radius: 10px;
+	background: blue;
+	color: white;
+	font-family: "bernard mt consended";
+	font-size: 15px;
+}
+
+.tambah:hover{
+	background: aqua;
+	color:black;
+}
+
+.detail{
+	width:100px;
+	height: 25px;
+	border-radius: 10px;
+	background: blue;
+	color: white;
+	font-family: "bernard mt consended";
+	font-size: 15px;	
+}
+
+.detail:hover{
+	background: aqua;
+	color: black;
+}
+
+.prnt{
+	width:50px;
+	height: 25px;
+	border-radius: 10px;
+	background: blue;
+	color: white;
+	font-family: "bernard mt consended";
+	font-size: 15px;
+}
+
+.prnt:hover{
+	background: aqua;
+	color:black;
+}
+
+.print{
+	width:50%;
+	height:50px;
+	background: aqua;
+	box-shadow: 3px 3px rgba(0,0,0,0.6);
+	border-radius: 20px;
+	font-family: "bernard mt consended";
+	font-size: 20px;
+}
+
+.print:hover{
+	background: blue;
+	color: white;
+}
+
+.back{
+	width:100px;
+	height:30px;
+	background: blue;
+	color: white;
+	border-radius: 20px;
+}
+
+.back:hover{
+	background: aqua;
+	color:black;
+}
+
+.btninput{
+	width:100px;
+	height: 30px;
+	border-radius: 20px;
+	background: green;
+	color: white;
+}
+
+.btninput:hover{
+	background: white;
+	color: black;
+}
